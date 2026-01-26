@@ -1,0 +1,5 @@
+{
+  "name": "n8n-groq",
+  "image": "n8nio/n8n:latest",
+  "forwardPorts": [5678]
+}
